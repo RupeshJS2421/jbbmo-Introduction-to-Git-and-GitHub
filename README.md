@@ -1,6 +1,6 @@
-# inal project Introduction to Git and GitHub
+# Final project Introduction to Git and GitHub
 
-2023 XYZ, Inc.
+2022 XYZ, Inc.
 
 ## Simple Interest Calculatore
 
