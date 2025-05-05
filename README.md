@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub Practice
+# inal project Introduction to Git and GitHub
 
 2022 XYZ, Inc.
 
